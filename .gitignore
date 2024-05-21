@@ -1,0 +1,14 @@
+# sqlite db file
+tasks.db
+tasks.db-shm
+tasks.db-wal
+
+#bin folder
+bin/
+
+#project files
+Bme.Swlab1.Rest.csproj
+appsettings.json
+appsettings.Development.json
+obj
+Properties 
